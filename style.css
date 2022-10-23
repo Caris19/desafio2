@@ -1,0 +1,79 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(229, 226, 226);
+}
+.navbar{
+    background-color: rgb(241, 185, 0);
+    text-align: center;
+    padding:3px 0px 20px 0px;
+}
+.navbar span,a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+.rolagem{ 
+    width: 33.33%;
+    margin-left: 28%;
+    float: left;
+    background-color: white;
+    margin-top: 2%;
+}
+.rolagem2{
+    background-color:white;
+    width: 33.33%;
+    margin-top: 1%;
+    margin-top: 2%;
+    margin-left: 28%;
+    float: left;
+}
+.direita{
+    margin-top: -41%;
+    float: right;
+    width: 15%;
+    margin-right: 18%;
+    background-color: white;
+}
+.direita2{
+    margin-top: -26%;
+    float: right;
+    width: 15%;
+    margin-right: 18%;
+    background-color: white;
+}
+.cinza{
+    background-color: rgb(189, 184, 184);
+    margin-top: 5%;
+    width: 90%;
+    height: 30px;
+    margin-left: 5%;
+}
+hr{
+    width: 90%;
+}
+h4{
+    color: rgb(219, 194, 48);
+    margin-left: 5%;
+}
+p{
+    margin-left: 5%;
+}
+.direita2 span{
+    color: rgb(241, 185, 0);
+    margin-left: 5%;
+}
+footer{
+    text-align: center;
+    margin-top: 88%;
+    background-color: rgb(189, 184, 184);
+    text-transform: 0 -50%;
+    width: 50%;
+    height: 30px;
+    margin-left: 28%;
+    margin-bottom: 2%;
+}
+img{
+    width:100%;
+    margin-right: 5%;
+    margin-top: 3%;
+}
