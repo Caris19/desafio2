@@ -28,14 +28,14 @@ body{
     float: left;
 }
 .direita{
-    margin-top: -41%;
+    margin-top: -49%;
     float: right;
     width: 15%;
     margin-right: 18%;
     background-color: white;
 }
 .direita2{
-    margin-top: -26%;
+    margin-top: -28%;
     float: right;
     width: 15%;
     margin-right: 18%;
@@ -64,7 +64,7 @@ p{
 }
 footer{
     text-align: center;
-    margin-top: 88%;
+    margin-top: 110%;
     background-color: rgb(189, 184, 184);
     text-transform: 0 -50%;
     width: 50%;
